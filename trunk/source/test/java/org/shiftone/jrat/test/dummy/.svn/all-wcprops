@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jrat/!svn/ver/135/trunk/source/test/java/org/shiftone/jrat/test/dummy
+END
+DummyBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jrat/!svn/ver/135/trunk/source/test/java/org/shiftone/jrat/test/dummy/DummyBean.java
+END
+JuniorDummy.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jrat/!svn/ver/135/trunk/source/test/java/org/shiftone/jrat/test/dummy/JuniorDummy.java
+END
+CrashTestDummy.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jrat/!svn/ver/135/trunk/source/test/java/org/shiftone/jrat/test/dummy/CrashTestDummy.java
+END

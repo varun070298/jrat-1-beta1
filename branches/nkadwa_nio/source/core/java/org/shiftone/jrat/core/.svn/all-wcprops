@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jrat/!svn/ver/218/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/core
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/core/package.html
+END
+ClassKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/core/ClassKey.java
+END
+Accumulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/core/Accumulator.java
+END
+JRatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/core/JRatException.java
+END
+MemoryMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/core/MemoryMonitor.java
+END
+Signature.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/core/Signature.java
+END
+Environment.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/core/Environment.java
+END
+Mode.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/core/Mode.java
+END
+HandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/core/HandlerFactory.java
+END
+ThreadState.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/core/ThreadState.java
+END
+ServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jrat/!svn/ver/218/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/core/ServiceFactory.java
+END
+MethodKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/core/MethodKey.java
+END
+RuntimeContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/core/RuntimeContextImpl.java
+END

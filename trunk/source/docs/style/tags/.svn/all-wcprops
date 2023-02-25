@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/jrat/!svn/ver/203/trunk/source/docs/style/tags
+END
+common.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/jrat/!svn/ver/203/trunk/source/docs/style/tags/common.xsl
+END
+tags.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/jrat/!svn/ver/187/trunk/source/docs/style/tags/tags.xsl
+END
+tags-css.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/jrat/!svn/ver/186/trunk/source/docs/style/tags/tags-css.xsl
+END

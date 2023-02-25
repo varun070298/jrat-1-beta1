@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/trace
+END
+TraceMethodHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/trace/TraceMethodHandlerFactory.java
+END
+TraceMethodHandlerFactoryMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/trace/TraceMethodHandlerFactoryMBean.java
+END
+Delegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/trace/Delegate.java
+END
+TraceMethodHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/trace/TraceMethodHandler.java
+END
+TraceOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/trace/TraceOutput.java
+END

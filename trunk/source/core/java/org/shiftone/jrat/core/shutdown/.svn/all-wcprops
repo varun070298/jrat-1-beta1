@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/core/shutdown
+END
+ShutdownRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/core/shutdown/ShutdownRegistry.java
+END
+ShutdownRegistryMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/core/shutdown/ShutdownRegistryMBean.java
+END
+ShutdownListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/core/shutdown/ShutdownListener.java
+END

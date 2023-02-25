@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/integration/aop/nanning
+END
+NanningInvocationCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/integration/aop/nanning/NanningInvocationCommand.java
+END
+NanningMethodInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/integration/aop/nanning/NanningMethodInterceptor.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jrat/!svn/ver/215/trunk/source/core/java/org/shiftone/jrat/core/web/http
+END
+FsBrowseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jrat/!svn/ver/215/trunk/source/core/java/org/shiftone/jrat/core/web/http/FsBrowseHandler.java
+END
+Request.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jrat/!svn/ver/215/trunk/source/core/java/org/shiftone/jrat/core/web/http/Request.java
+END
+WebActionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jrat/!svn/ver/215/trunk/source/core/java/org/shiftone/jrat/core/web/http/WebActionHandler.java
+END
+Handler.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jrat/!svn/ver/215/trunk/source/core/java/org/shiftone/jrat/core/web/http/Handler.java
+END
+HttpException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jrat/!svn/ver/215/trunk/source/core/java/org/shiftone/jrat/core/web/http/HttpException.java
+END
+Response.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jrat/!svn/ver/215/trunk/source/core/java/org/shiftone/jrat/core/web/http/Response.java
+END
+Parameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jrat/!svn/ver/215/trunk/source/core/java/org/shiftone/jrat/core/web/http/Parameters.java
+END
+Status.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jrat/!svn/ver/215/trunk/source/core/java/org/shiftone/jrat/core/web/http/Status.java
+END
+TestWebActionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jrat/!svn/ver/215/trunk/source/core/java/org/shiftone/jrat/core/web/http/TestWebActionFactory.java
+END
+Server.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jrat/!svn/ver/215/trunk/source/core/java/org/shiftone/jrat/core/web/http/Server.java
+END

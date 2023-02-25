@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/integration/aop/jboss
+END
+JBossInvocationCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/integration/aop/jboss/JBossInvocationCommand.java
+END
+JBossInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/integration/aop/jboss/JBossInterceptor.java
+END

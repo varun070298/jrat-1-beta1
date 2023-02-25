@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/util/time
+END
+PauseMovement.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/util/time/PauseMovement.java
+END
+SunMiscPerfMovement.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/util/time/SunMiscPerfMovement.java
+END
+Movement.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/util/time/Movement.java
+END
+SystemNanoTimeMovement.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/util/time/SystemNanoTimeMovement.java
+END
+Clock.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/util/time/Clock.java
+END
+SystemCurrentTimeMillisMovement.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/util/time/SystemCurrentTimeMillisMovement.java
+END
+TimeUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/util/time/TimeUnit.java
+END

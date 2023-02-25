@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/lib/spring-framework-1.2.8
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/lib/spring-framework-1.2.8/commons-logging.jar
+END
+spring-context.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/lib/spring-framework-1.2.8/spring-context.jar
+END
+spring-beans.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/lib/spring-framework-1.2.8/spring-beans.jar
+END
+spring-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/lib/spring-framework-1.2.8/spring-core.jar
+END

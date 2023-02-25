@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/docs/style/tags
+END
+common.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/docs/style/tags/common.xsl
+END
+tags.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/docs/style/tags/tags.xsl
+END
+tags-css.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/docs/style/tags/tags-css.xsl
+END

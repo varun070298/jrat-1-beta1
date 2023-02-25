@@ -1,0 +1,86 @@
+<document title="What's New">
+
+
+    If you have previously used JRat, you will definitely notice some differences in
+    recent versions.  During JRat's history, it has become clear what features provide
+    the most value, and those features have been focused on.
+
+    <section>
+        <h>No Injection Step</h>
+
+        Java 5 has given us JVMPI, which provides a super easy way to hook into
+        a JVM's class loading infrastructure. The result is that you can "install"
+        JRat now with a single command line argument. Nice.
+    </section>
+
+    <section>
+        <h>File Configuration</h>
+
+        Previous versions of JRat made extensive use of system properties to control
+        features, though an XML file could be optionally used.
+
+        This model has been replaced with an <b>jrat.xml</b> file that is <i>always</i> used.
+        If this file is not found at statup, a default file will be created and used.
+    </section>
+
+    <section>
+        <h>No Separate Downloads</h>
+
+        Previously, it was necessary to download BCEL to use JRat.
+
+        While JRat still depends on several other open source projects (
+        <a href="http://asm.objectweb.org/">ASM</a>
+        and
+        <a href="http://swinglabs.org/">SwingX</a>
+        ),
+        these libraries are now embedded within the JRat jar.  This is done with a fine
+        open source tool called
+        <a href="http://www.tonicsystems.com/products/jarjar/">Jar Jar Links</a>.
+
+    </section>
+
+    <section>
+        <h>Focus on the TreeHandler</h>
+
+        The most useful handler has always been the
+        <i>TreeHandler</i>,
+        but several others were implemented as well.
+
+        Much more attention is now being paid to the TreeHandler, which is provides about 90%
+        of JRat's value.
+
+        You can still write your own handlers, or configure multiple handlers, but the
+        TreeHandler has been promoted to first class status.  This is also true of
+    </section>
+    <section>
+        <h>Focus on Bytecode Instrumentation</h>
+
+        Bytecode injection is <b>the</b> preferred way to use JRat.
+        Support for programmatic instrumentation and possibly AOP will be phased out.
+    </section>
+
+    <section>
+        <h>ASM is in, BCEL is out</h>
+
+        JRat now uses ObjectWeb's ASM library to perform bytecode injection.  ASM fully
+        supports the Java 5 class file format.  
+    </section>
+
+    <section>
+        <h>HTTP Server</h>
+
+        While still under active development, the built in HTTP server has been vastly
+        improved upon. It is expected that JRat will begin taking greater advantage of
+        this interface.
+    </section>
+
+    <section>
+        <h>Output Format</h>
+        JRat previously produced output (for the TreeHandler) in XML. The XML format has been
+        replaced with a binary (serialization based) format.  At some point in the future it
+        may be possible to export data to XML, HTML, or another format.
+    </section>
+
+
+
+</document>

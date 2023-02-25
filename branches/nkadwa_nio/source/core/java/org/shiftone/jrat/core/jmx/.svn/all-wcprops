@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/core/jmx
+END
+ServerJmxRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/core/jmx/ServerJmxRegistry.java
+END
+JmxRegistryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/core/jmx/JmxRegistryFactory.java
+END
+NullJmxRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/core/jmx/NullJmxRegistry.java
+END
+JmxRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/core/jmx/JmxRegistry.java
+END
+WaitingJmxRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/core/jmx/WaitingJmxRegistry.java
+END

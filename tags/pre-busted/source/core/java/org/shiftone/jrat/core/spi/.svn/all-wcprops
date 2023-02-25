@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/core/spi
+END
+MethodHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/core/spi/MethodHandlerFactory.java
+END
+RuntimeContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/core/spi/RuntimeContext.java
+END
+AbstractMethodHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/core/spi/AbstractMethodHandlerFactory.java
+END
+MethodHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/core/spi/MethodHandler.java
+END
+ViewBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/core/spi/ViewBuilder.java
+END
+Commandlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/core/spi/Commandlet.java
+END

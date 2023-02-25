@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/util/log/target
+END
+ProxyLogTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/util/log/target/ProxyLogTarget.java
+END
+ThreadLocalLogTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/util/log/target/ThreadLocalLogTarget.java
+END
+TandemTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/util/log/target/TandemTarget.java
+END
+NullLogTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/util/log/target/NullLogTarget.java
+END
+WriterLogTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/util/log/target/WriterLogTarget.java
+END
+LogTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/util/log/target/LogTarget.java
+END

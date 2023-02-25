@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/ui/action
+END
+SpawnFrameAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/ui/action/SpawnFrameAction.java
+END
+RemoveCurrentTabAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/ui/action/RemoveCurrentTabAction.java
+END
+ExitAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/ui/action/ExitAction.java
+END
+RemoveAllTabsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/ui/action/RemoveAllTabsAction.java
+END
+ResizeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/ui/action/ResizeAction.java
+END

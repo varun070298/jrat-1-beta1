@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/integration/aop/dynaop
+END
+DynaopInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/integration/aop/dynaop/DynaopInterceptor.java
+END
+DynaopInvocationCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/integration/aop/dynaop/DynaopInvocationCommand.java
+END

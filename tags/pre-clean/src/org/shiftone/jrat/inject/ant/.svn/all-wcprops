@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/inject/ant
+END
+InjectTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/inject/ant/InjectTask.java
+END
+AbstractFileTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/inject/ant/AbstractFileTask.java
+END
+InjectCopyTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/inject/ant/InjectCopyTask.java
+END

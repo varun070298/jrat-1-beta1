@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/core/config
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/core/config/Configuration.java
+END
+CacheMethodHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/core/config/CacheMethodHandlerFactory.java
+END
+ConfigMethodHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/core/config/ConfigMethodHandlerFactory.java
+END
+Handler.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/core/config/Handler.java
+END
+Profile.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/core/config/Profile.java
+END
+Settings.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/core/config/Settings.java
+END
+CompositeMethodHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/core/config/CompositeMethodHandler.java
+END
+ConfigurationParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/core/config/ConfigurationParser.java
+END

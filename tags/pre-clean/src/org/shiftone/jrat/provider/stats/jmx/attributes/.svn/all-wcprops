@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/stats/jmx/attributes
+END
+ConcurrentThreadsAttributeValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/stats/jmx/attributes/ConcurrentThreadsAttributeValue.java
+END
+AverageDurationAttributeValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/stats/jmx/attributes/AverageDurationAttributeValue.java
+END
+TotalErrorsAttributeValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/stats/jmx/attributes/TotalErrorsAttributeValue.java
+END
+TotalExitsAttributeValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/stats/jmx/attributes/TotalExitsAttributeValue.java
+END
+AbstractAccumulatorAttributeValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/stats/jmx/attributes/AbstractAccumulatorAttributeValue.java
+END
+MaxConcurrentThreadsAttributeValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/stats/jmx/attributes/MaxConcurrentThreadsAttributeValue.java
+END
+TotalEntersAttributeValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/stats/jmx/attributes/TotalEntersAttributeValue.java
+END
+MinDurationAttributeValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/stats/jmx/attributes/MinDurationAttributeValue.java
+END
+MaxDurationAttributeValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/stats/jmx/attributes/MaxDurationAttributeValue.java
+END

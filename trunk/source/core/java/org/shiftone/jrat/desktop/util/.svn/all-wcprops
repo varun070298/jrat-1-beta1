@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jrat/!svn/ver/171/trunk/source/core/java/org/shiftone/jrat/desktop/util
+END
+BrowserPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jrat/!svn/ver/171/trunk/source/core/java/org/shiftone/jrat/desktop/util/BrowserPanel.java
+END
+JXTableWatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jrat/!svn/ver/171/trunk/source/core/java/org/shiftone/jrat/desktop/util/JXTableWatcher.java
+END
+Table.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jrat/!svn/ver/171/trunk/source/core/java/org/shiftone/jrat/desktop/util/Table.java
+END
+ColumnInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/desktop/util/ColumnInfo.java
+END
+Icons.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/desktop/util/Icons.java
+END
+Errors.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jrat/!svn/ver/171/trunk/source/core/java/org/shiftone/jrat/desktop/util/Errors.java
+END
+Tips.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jrat/!svn/ver/171/trunk/source/core/java/org/shiftone/jrat/desktop/util/Tips.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/util/jmx/dynamic
+END
+OperationKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/util/jmx/dynamic/OperationKey.java
+END
+SimpleAttributeValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/util/jmx/dynamic/SimpleAttributeValue.java
+END
+AttributeValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/util/jmx/dynamic/AttributeValue.java
+END
+Operation.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/util/jmx/dynamic/Operation.java
+END
+ConfigurableMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/util/jmx/dynamic/ConfigurableMBean.java
+END
+RunnableOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/util/jmx/dynamic/RunnableOperation.java
+END

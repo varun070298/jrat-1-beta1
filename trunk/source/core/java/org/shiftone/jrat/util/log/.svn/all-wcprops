@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jrat/!svn/ver/171/trunk/source/core/java/org/shiftone/jrat/util/log
+END
+AbstractLogCommandlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/util/log/AbstractLogCommandlet.java
+END
+LoggingSAXErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/util/log/LoggingSAXErrorHandler.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/util/log/Constants.java
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/util/log/Logger.java
+END
+LoggingManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/util/log/LoggingManager.java
+END
+LoggingManagerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/util/log/LoggingManagerMBean.java
+END
+LoggerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jrat/!svn/ver/171/trunk/source/core/java/org/shiftone/jrat/util/log/LoggerFactory.java
+END

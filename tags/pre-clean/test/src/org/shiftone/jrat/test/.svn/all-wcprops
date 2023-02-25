@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test
+END
+GlobTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/GlobTestCase.java
+END
+StringUtilTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/StringUtilTestCase.java
+END
+IOTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/IOTestCase.java
+END
+DebugOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/DebugOutputStream.java
+END
+SimpleExamle.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/SimpleExamle.java
+END
+TreeProviderTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/TreeProviderTestCase.java
+END
+BenchmarkTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/BenchmarkTestCase.java
+END
+InjectorTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/InjectorTestCase.java
+END
+JmxTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/JmxTestCase.java
+END
+AccumulatorTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/AccumulatorTestCase.java
+END
+JbossAopTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/JbossAopTestCase.java
+END
+XmlTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/XmlTestCase.java
+END
+TestClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/TestClassLoader.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jrat/!svn/ver/215/trunk/source/core/java/org/shiftone/jrat/jvmti
+END
+Agent.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jrat/!svn/ver/215/trunk/source/core/java/org/shiftone/jrat/jvmti/Agent.java
+END
+DumpClassFileTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jrat/!svn/ver/213/trunk/source/core/java/org/shiftone/jrat/jvmti/DumpClassFileTransformer.java
+END
+FilterClassFileTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/jvmti/FilterClassFileTransformer.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/jvmti/package.html
+END
+InjectClassFileTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jrat/!svn/ver/215/trunk/source/core/java/org/shiftone/jrat/jvmti/InjectClassFileTransformer.java
+END
+SystemPropertyTweakingTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/jvmti/SystemPropertyTweakingTransformer.java
+END
+TryCatchClassFileTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/jvmti/TryCatchClassFileTransformer.java
+END

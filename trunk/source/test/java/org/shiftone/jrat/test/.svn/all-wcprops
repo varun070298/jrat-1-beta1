@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jrat/!svn/ver/211/trunk/source/test/java/org/shiftone/jrat/test
+END
+DebugOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jrat/!svn/ver/135/trunk/source/test/java/org/shiftone/jrat/test/DebugOutputStream.java
+END
+IOTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jrat/!svn/ver/205/trunk/source/test/java/org/shiftone/jrat/test/IOTestCase.java
+END
+SimpleExamle.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jrat/!svn/ver/209/trunk/source/test/java/org/shiftone/jrat/test/SimpleExamle.java
+END
+BenchmarkTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jrat/!svn/ver/135/trunk/source/test/java/org/shiftone/jrat/test/BenchmarkTestCase.java
+END
+InjectorTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jrat/!svn/ver/135/trunk/source/test/java/org/shiftone/jrat/test/InjectorTestCase.java
+END
+JmxTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jrat/!svn/ver/205/trunk/source/test/java/org/shiftone/jrat/test/JmxTestCase.java
+END
+AccumulatorTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jrat/!svn/ver/135/trunk/source/test/java/org/shiftone/jrat/test/AccumulatorTestCase.java
+END
+TestClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jrat/!svn/ver/135/trunk/source/test/java/org/shiftone/jrat/test/TestClassLoader.java
+END
+GlobTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jrat/!svn/ver/135/trunk/source/test/java/org/shiftone/jrat/test/GlobTestCase.java
+END
+StringUtilTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jrat/!svn/ver/135/trunk/source/test/java/org/shiftone/jrat/test/StringUtilTestCase.java
+END

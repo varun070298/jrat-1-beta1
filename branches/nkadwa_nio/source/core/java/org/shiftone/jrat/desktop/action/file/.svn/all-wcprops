@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/desktop/action/file
+END
+DummyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/desktop/action/file/DummyAction.java
+END
+CloseAllAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/desktop/action/file/CloseAllAction.java
+END
+OpenAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/desktop/action/file/OpenAction.java
+END
+WindowSizeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/desktop/action/file/WindowSizeAction.java
+END
+CloseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/desktop/action/file/CloseAction.java
+END
+ClearPreferencesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/desktop/action/file/ClearPreferencesAction.java
+END
+ExitAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/desktop/action/file/ExitAction.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/util/io/proxy
+END
+ProxyInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/util/io/proxy/ProxyInputStream.java
+END
+ProxyOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/util/io/proxy/ProxyOutputStream.java
+END
+ProxyWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/util/io/proxy/ProxyWriter.java
+END

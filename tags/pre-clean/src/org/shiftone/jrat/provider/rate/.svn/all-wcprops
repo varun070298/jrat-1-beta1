@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/rate
+END
+RateTimerTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/rate/RateTimerTask.java
+END
+RateMethodHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/rate/RateMethodHandlerFactory.java
+END
+RateMethodHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/rate/RateMethodHandler.java
+END
+RateOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/rate/RateOutput.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/rate/package.html
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/tree/ui/trace
+END
+InstanceCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/tree/ui/trace/InstanceCache.java
+END
+NodeDetailPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/tree/ui/trace/NodeDetailPanel.java
+END
+PercentColorLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/tree/ui/trace/PercentColorLookup.java
+END
+StackTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/tree/ui/trace/StackTreeNode.java
+END
+StackTreeCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/tree/ui/trace/StackTreeCellRenderer.java
+END
+TreeViewerPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/tree/ui/trace/TreeViewerPanel.java
+END

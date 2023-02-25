@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/integration/aop/alliance
+END
+AllianceMethodInvocationCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/integration/aop/alliance/AllianceMethodInvocationCommand.java
+END
+AllianceMethodInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/integration/aop/alliance/AllianceMethodInterceptor.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/util/io
+END
+IOUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/util/io/IOUtil.java
+END
+PrintStreamWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/util/io/PrintStreamWriter.java
+END
+ResourceUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/util/io/ResourceUtil.java
+END
+GlobFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/util/io/GlobFileFilter.java
+END
+OpenInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/util/io/OpenInputStream.java
+END
+Dir.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/util/io/Dir.java
+END

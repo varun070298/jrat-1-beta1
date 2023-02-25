@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/core/command
+END
+CommandletRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/core/command/CommandletRegistry.java
+END
+CommandletRegistryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/core/command/CommandletRegistryFactory.java
+END
+SystemPropertiesCommandlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/core/command/SystemPropertiesCommandlet.java
+END
+ListRegistryCommandlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/core/command/ListRegistryCommandlet.java
+END
+TinyWebServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/core/command/TinyWebServer.java
+END

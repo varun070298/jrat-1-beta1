@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/inject/process
+END
+CopyFileProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/inject/process/CopyFileProcessor.java
+END
+OpenInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/inject/process/OpenInputStream.java
+END
+FileProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/inject/process/FileProcessor.java
+END
+ArchiveFileProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/inject/process/ArchiveFileProcessor.java
+END
+CompositeFileProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/inject/process/CompositeFileProcessor.java
+END
+AbstractFileProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/inject/process/AbstractFileProcessor.java
+END
+DirectoryFileProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/inject/process/DirectoryFileProcessor.java
+END
+ClassFileProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/inject/process/ClassFileProcessor.java
+END

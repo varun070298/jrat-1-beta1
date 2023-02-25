@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/jrat/!svn/ver/80/tags/pre-clean
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/build.properties
+END
+idea.ipr
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/idea.ipr
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/build.xml
+END
+idea.iml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/idea.iml
+END
+idea.iws
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/idea.iws
+END

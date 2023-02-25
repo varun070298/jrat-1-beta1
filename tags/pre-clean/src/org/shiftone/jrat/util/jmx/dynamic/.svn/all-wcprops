@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/util/jmx/dynamic
+END
+AttributeValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/util/jmx/dynamic/AttributeValue.java
+END
+Operation.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/util/jmx/dynamic/Operation.java
+END
+ConfigurableMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/util/jmx/dynamic/ConfigurableMBean.java
+END
+RunnableOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/util/jmx/dynamic/RunnableOperation.java
+END
+OperationKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/util/jmx/dynamic/OperationKey.java
+END
+SimpleAttributeValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/util/jmx/dynamic/SimpleAttributeValue.java
+END

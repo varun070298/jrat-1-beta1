@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/test/java/org/shiftone/jrat/test
+END
+GlobTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/test/java/org/shiftone/jrat/test/GlobTestCase.java
+END
+StringUtilTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/test/java/org/shiftone/jrat/test/StringUtilTestCase.java
+END
+DebugOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/test/java/org/shiftone/jrat/test/DebugOutputStream.java
+END
+IOTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/test/java/org/shiftone/jrat/test/IOTestCase.java
+END
+SimpleExamle.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/test/java/org/shiftone/jrat/test/SimpleExamle.java
+END
+BenchmarkTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/test/java/org/shiftone/jrat/test/BenchmarkTestCase.java
+END
+InjectorTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/test/java/org/shiftone/jrat/test/InjectorTestCase.java
+END
+JmxTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/test/java/org/shiftone/jrat/test/JmxTestCase.java
+END
+AccumulatorTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/test/java/org/shiftone/jrat/test/AccumulatorTestCase.java
+END
+TestClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/test/java/org/shiftone/jrat/test/TestClassLoader.java
+END

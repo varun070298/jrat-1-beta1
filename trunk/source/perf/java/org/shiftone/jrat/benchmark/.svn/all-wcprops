@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jrat/!svn/ver/215/trunk/source/perf/java/org/shiftone/jrat/benchmark
+END
+StringIndexOfRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/StringIndexOfRunnable.java
+END
+FormatTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/FormatTests.java
+END
+BenchmarkResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jrat/!svn/ver/215/trunk/source/perf/java/org/shiftone/jrat/benchmark/BenchmarkResults.java
+END
+IntegerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/IntegerTests.java
+END
+ThreadYieldRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/ThreadYieldRunnable.java
+END
+ThrowableNewRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/ThrowableNewRunnable.java
+END
+StringTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/StringTests.java
+END
+DecimalFormatParseRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/DecimalFormatParseRunnable.java
+END
+IncrementLongRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/IncrementLongRunnable.java
+END
+SimpleDateFormatFormatRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/SimpleDateFormatFormatRunnable.java
+END
+BasicTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/BasicTests.java
+END
+ThreadLocalTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/ThreadLocalTests.java
+END
+StringRegionMatchesRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/StringRegionMatchesRunnable.java
+END
+ThreadSleep0Runnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/ThreadSleep0Runnable.java
+END
+SystemCurrentTimeMillisRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/SystemCurrentTimeMillisRunnable.java
+END
+DecimalFormatFormatRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/DecimalFormatFormatRunnable.java
+END
+PatternMatchesRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/PatternMatchesRunnable.java
+END
+ThrowableTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/ThrowableTests.java
+END
+IncrementBigDecimalRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/IncrementBigDecimalRunnable.java
+END
+MathTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/MathTests.java
+END
+Benchmarks.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/Benchmarks.java
+END
+SunMiscPerfCalculateTimeRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/SunMiscPerfCalculateTimeRunnable.java
+END
+SimpleDateFormatParseRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/SimpleDateFormatParseRunnable.java
+END
+StringConcatRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/StringConcatRunnable.java
+END
+ThreadCurrentThreadRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/ThreadCurrentThreadRunnable.java
+END
+IncrementIntegerRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/IncrementIntegerRunnable.java
+END
+Benchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/Benchmark.java
+END
+StringContainsRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/StringContainsRunnable.java
+END
+DoubleTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/DoubleTests.java
+END
+ThrowablePrintStackTraceRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/ThrowablePrintStackTraceRunnable.java
+END
+SystemNanoTimeRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/SystemNanoTimeRunnable.java
+END
+MethodReflectCallRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jrat/!svn/ver/213/trunk/source/perf/java/org/shiftone/jrat/benchmark/MethodReflectCallRunnable.java
+END

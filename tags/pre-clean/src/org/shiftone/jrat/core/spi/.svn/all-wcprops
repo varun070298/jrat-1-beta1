@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/core/spi
+END
+MethodHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/core/spi/MethodHandlerFactory.java
+END
+RuntimeContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/core/spi/RuntimeContext.java
+END
+AbstractMethodHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/core/spi/AbstractMethodHandlerFactory.java
+END
+MethodHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/core/spi/MethodHandler.java
+END
+ViewBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/core/spi/ViewBuilder.java
+END
+Commandlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/core/spi/Commandlet.java
+END

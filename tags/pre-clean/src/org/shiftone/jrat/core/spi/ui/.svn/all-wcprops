@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/core/spi/ui
+END
+View.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/core/spi/ui/View.java
+END
+ViewContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/core/spi/ui/ViewContainer.java
+END
+ViewContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/core/spi/ui/ViewContext.java
+END
+ViewerXmlHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/core/spi/ui/ViewerXmlHandler.java
+END
+OutputViewBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/core/spi/ui/OutputViewBuilder.java
+END
+AbstractOutputXmlViewBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/core/spi/ui/AbstractOutputXmlViewBuilder.java
+END

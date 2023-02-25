@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/inject/bytecode
+END
+Modifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/inject/bytecode/Modifier.java
+END
+TransformerOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/inject/bytecode/TransformerOptions.java
+END
+InjectorStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/inject/bytecode/InjectorStrategy.java
+END
+Transformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/inject/bytecode/Transformer.java
+END
+TransformerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/inject/bytecode/TransformerMBean.java
+END
+InjectorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/inject/bytecode/InjectorException.java
+END

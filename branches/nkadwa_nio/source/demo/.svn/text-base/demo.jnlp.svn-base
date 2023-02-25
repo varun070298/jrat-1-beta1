@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+" codebase="http://jrat.sourceforge.net/demo" href="demo.jnlp">
+    <information>
+        <title>JRat Desktop Demo</title>
+        <vendor>ShiftOne.Org</vendor>
+        <homepage href="jrat.sourceforge.net"/>
+        <description>JRat Desktop Demo</description>
+        <icon href="icon.gif"/>
+        <icon kind="splash" href="mad-rat.gif"/>
+        <offline-allowed/>
+    </information>
+    <security>
+        <all-permissions/>
+    </security>
+    <resources>
+        <j2se version="1.5+" initial-heap-size="128M" max-heap-size="512M"/>
+        <jar href="shiftone-jrat.jar"/>
+        <jar href="data.jar"/>
+    </resources>
+    <application-desc main-class="org.shiftone.jrat.desktop.DesktopDemo"/>
+</jnlp>

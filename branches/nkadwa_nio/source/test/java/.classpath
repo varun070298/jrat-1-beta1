@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/jrat-1-beta1_branches-nkadwa_nio-source-core-java"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/jrat-1-beta1_branches-nkadwa_nio-source-perf-java"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/provider/tree/ui/summary
+END
+SummaryTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/provider/tree/ui/summary/SummaryTableModel.java
+END
+SummaryPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/provider/tree/ui/summary/SummaryPanel.java
+END
+MethodSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/provider/tree/ui/summary/MethodSummary.java
+END
+MethodSummaryModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/core/java/org/shiftone/jrat/provider/tree/ui/summary/MethodSummaryModel.java
+END

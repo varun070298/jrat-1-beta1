@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/integration/aop/proxy
+END
+ProxyCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/integration/aop/proxy/ProxyCommand.java
+END
+ProxyInvocationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/integration/aop/proxy/ProxyInvocationHandler.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/core/jmx/benchmark
+END
+Benchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/core/jmx/benchmark/Benchmark.java
+END
+BenchmarkMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/core/jmx/benchmark/BenchmarkMBean.java
+END

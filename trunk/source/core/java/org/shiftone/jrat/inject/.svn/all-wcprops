@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jrat/!svn/ver/213/trunk/source/core/java/org/shiftone/jrat/inject
+END
+InjectorCli.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/inject/InjectorCli.java
+END
+InjectorOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/inject/InjectorOptions.java
+END
+Injector.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/inject/Injector.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/inject/package.html
+END
+InjectionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/inject/InjectionException.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jrat/!svn/ver/209/trunk/source/core/java/org/shiftone/jrat/api
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/api/Command.java
+END
+Callable.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/api/Callable.java
+END
+Monitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jrat/!svn/ver/209/trunk/source/core/java/org/shiftone/jrat/api/Monitor.java
+END

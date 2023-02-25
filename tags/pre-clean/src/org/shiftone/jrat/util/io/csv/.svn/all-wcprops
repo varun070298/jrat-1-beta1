@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/util/io/csv
+END
+DelimitedWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/util/io/csv/DelimitedWriter.java
+END
+DelimitedReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/util/io/csv/DelimitedReader.java
+END
+DelimitedFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/util/io/csv/DelimitedFormat.java
+END

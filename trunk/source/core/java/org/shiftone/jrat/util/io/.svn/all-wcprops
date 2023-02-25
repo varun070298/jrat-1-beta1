@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jrat/!svn/ver/209/trunk/source/core/java/org/shiftone/jrat/util/io
+END
+GlobFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/util/io/GlobFileFilter.java
+END
+OpenInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/util/io/OpenInputStream.java
+END
+Dir.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/util/io/Dir.java
+END
+IOUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jrat/!svn/ver/205/trunk/source/core/java/org/shiftone/jrat/util/io/IOUtil.java
+END
+PrintStreamWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/util/io/PrintStreamWriter.java
+END
+ResourceUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jrat/!svn/ver/209/trunk/source/core/java/org/shiftone/jrat/util/io/ResourceUtil.java
+END

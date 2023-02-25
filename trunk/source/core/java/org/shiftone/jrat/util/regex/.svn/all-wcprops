@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/util/regex
+END
+GlobMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/util/regex/GlobMatcher.java
+END
+ConstantMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/util/regex/ConstantMatcher.java
+END
+ToLowerMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/util/regex/ToLowerMatcher.java
+END
+Matcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/util/regex/Matcher.java
+END
+CompositeMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/util/regex/CompositeMatcher.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/core/output
+END
+FileOutputRegistryMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/core/output/FileOutputRegistryMBean.java
+END
+FileOutputOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/core/output/FileOutputOutputStream.java
+END
+FileOutputWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/core/output/FileOutputWriter.java
+END
+FileOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/core/output/FileOutput.java
+END
+OutputDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/core/output/OutputDirectory.java
+END
+FileOutputFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/core/output/FileOutputFactory.java
+END
+FileOutputRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/core/output/FileOutputRegistry.java
+END
+FileOutputPrintWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/core/output/FileOutputPrintWriter.java
+END

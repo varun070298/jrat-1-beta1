@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/test/java/org/shiftone/jrat/test
+END
+DebugOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/test/java/org/shiftone/jrat/test/DebugOutputStream.java
+END
+IOTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/test/java/org/shiftone/jrat/test/IOTestCase.java
+END
+SimpleExamle.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/test/java/org/shiftone/jrat/test/SimpleExamle.java
+END
+BenchmarkTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/test/java/org/shiftone/jrat/test/BenchmarkTestCase.java
+END
+InjectorTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/test/java/org/shiftone/jrat/test/InjectorTestCase.java
+END
+JmxTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/test/java/org/shiftone/jrat/test/JmxTestCase.java
+END
+AccumulatorTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/test/java/org/shiftone/jrat/test/AccumulatorTestCase.java
+END
+TestClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/test/java/org/shiftone/jrat/test/TestClassLoader.java
+END
+GlobTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/test/java/org/shiftone/jrat/test/GlobTestCase.java
+END
+StringUtilTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/test/java/org/shiftone/jrat/test/StringUtilTestCase.java
+END

@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/time
+END
+SimpleDateFormatFormatRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/time/SimpleDateFormatFormatRunnable.java
+END
+ThrowablePrintStackTraceRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/time/ThrowablePrintStackTraceRunnable.java
+END
+NoOpRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/time/NoOpRunnable.java
+END
+MethodCallRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/time/MethodCallRunnable.java
+END
+ClockCurrentTimeNanosRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/time/ClockCurrentTimeNanosRunnable.java
+END
+StringRegionMatchesRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/time/StringRegionMatchesRunnable.java
+END
+SystemNanoTimeRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/time/SystemNanoTimeRunnable.java
+END
+DecimalFormatFormatRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/time/DecimalFormatFormatRunnable.java
+END
+SystemCurrentTimeMillisRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/time/SystemCurrentTimeMillisRunnable.java
+END
+ThreadSleep0Runnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/time/ThreadSleep0Runnable.java
+END
+MethodReflectCallRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/time/MethodReflectCallRunnable.java
+END
+AddToFloatRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/time/AddToFloatRunnable.java
+END
+PatternMatchesRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/time/PatternMatchesRunnable.java
+END
+StringIndexOfRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/time/StringIndexOfRunnable.java
+END
+IncrementBigDecimalRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/time/IncrementBigDecimalRunnable.java
+END
+AddToDoubleRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/time/AddToDoubleRunnable.java
+END
+Timer.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/time/Timer.java
+END
+MathRandomRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/time/MathRandomRunnable.java
+END
+SimpleDateFormatParseRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/time/SimpleDateFormatParseRunnable.java
+END
+SunMiscPerfCalculateTimeRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/time/SunMiscPerfCalculateTimeRunnable.java
+END
+StringConcatRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/time/StringConcatRunnable.java
+END
+ThreadYieldRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/time/ThreadYieldRunnable.java
+END
+ThrowableNewRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/time/ThrowableNewRunnable.java
+END
+IncrementIntegerRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/time/IncrementIntegerRunnable.java
+END
+DecimalFormatParseRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/time/DecimalFormatParseRunnable.java
+END
+ThreadCurrentThreadRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/time/ThreadCurrentThreadRunnable.java
+END
+IncrementLongRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/time/IncrementLongRunnable.java
+END
+StringContainsRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/time/StringContainsRunnable.java
+END
+ExceptionNewRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/test/src/org/shiftone/jrat/test/time/ExceptionNewRunnable.java
+END

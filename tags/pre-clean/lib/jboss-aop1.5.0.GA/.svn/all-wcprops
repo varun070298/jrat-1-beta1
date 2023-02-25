@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/lib/jboss-aop1.5.0.GA
+END
+qdox.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/lib/jboss-aop1.5.0.GA/qdox.jar
+END
+jrockit-pluggable-instrumentor.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/lib/jboss-aop1.5.0.GA/jrockit-pluggable-instrumentor.jar
+END
+jboss-aop.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/lib/jboss-aop1.5.0.GA/jboss-aop.jar
+END
+jboss-aspect-library.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/lib/jboss-aop1.5.0.GA/jboss-aspect-library.jar
+END
+trove.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/lib/jboss-aop1.5.0.GA/trove.jar
+END
+concurrent.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/lib/jboss-aop1.5.0.GA/concurrent.jar
+END
+jdk14-pluggable-instrumentor.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/lib/jboss-aop1.5.0.GA/jdk14-pluggable-instrumentor.jar
+END
+jboss-common.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/lib/jboss-aop1.5.0.GA/jboss-common.jar
+END
+javassist.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/lib/jboss-aop1.5.0.GA/javassist.jar
+END
+bsh-1.3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/lib/jboss-aop1.5.0.GA/bsh-1.3.0.jar
+END

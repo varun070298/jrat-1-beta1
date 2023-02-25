@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/test/java/org/shiftone/jrat/test/dummy
+END
+DummyBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/test/java/org/shiftone/jrat/test/dummy/DummyBean.java
+END
+JuniorDummy.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/test/java/org/shiftone/jrat/test/dummy/JuniorDummy.java
+END
+CrashTestDummy.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jrat/!svn/ver/212/tags/pre-busted/source/test/java/org/shiftone/jrat/test/dummy/CrashTestDummy.java
+END

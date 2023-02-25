@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jrat/!svn/ver/200/trunk/source/core/java/org/shiftone/jrat/desktop
+END
+Desktop.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jrat/!svn/ver/200/trunk/source/core/java/org/shiftone/jrat/desktop/Desktop.java
+END
+DesktopPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jrat/!svn/ver/171/trunk/source/core/java/org/shiftone/jrat/desktop/DesktopPreferences.java
+END
+DesktopDemo.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jrat/!svn/ver/198/trunk/source/core/java/org/shiftone/jrat/desktop/DesktopDemo.java
+END
+DesktopFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jrat/!svn/ver/192/trunk/source/core/java/org/shiftone/jrat/desktop/DesktopFrame.java
+END
+TabMouseListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jrat/!svn/ver/171/trunk/source/core/java/org/shiftone/jrat/desktop/TabMouseListener.java
+END
+Memory.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jrat/!svn/ver/171/trunk/source/core/java/org/shiftone/jrat/desktop/Memory.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/integration/aop/cglib
+END
+CglibMethodInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/integration/aop/cglib/CglibMethodInterceptor.java
+END
+CglibMethodInvocationCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/integration/aop/cglib/CglibMethodInvocationCommand.java
+END

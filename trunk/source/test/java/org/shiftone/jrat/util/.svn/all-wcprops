@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jrat/!svn/ver/205/trunk/source/test/java/org/shiftone/jrat/util
+END
+PropertyUtilTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jrat/!svn/ver/135/trunk/source/test/java/org/shiftone/jrat/util/PropertyUtilTestCase.java
+END
+NestedRuntimeExceptionTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jrat/!svn/ver/135/trunk/source/test/java/org/shiftone/jrat/util/NestedRuntimeExceptionTestCase.java
+END

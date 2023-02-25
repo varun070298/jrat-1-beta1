@@ -1,0 +1,40 @@
+
+tip.1.description=<html><b>Always start tuning with a baseline measurement.</b><p>\
+  Measure again after your change and compare the results.  \
+  Did your change improve performace?  If the optimized code is \
+  more complex, does improvement justify adding complexity?
+
+tip.2.description=<html><b>Method time is a hightly useful statistic.</b><p>\
+  It is the total time spent in a method, minus the time spent in all the methods it calls.
+
+tip.3.description=<html><b>Don't optimize as you go.</b><p>\
+   Write your program concentrating on clean, correct, and understandable code - \
+   then measure.
+
+tip.4.description=<html>Profile to isolate the code that <b>really matters</b> \
+  to performance, then focus optimization efforts there.
+
+tip.5.description=<html><b>Design for efficiency.</b><p>\
+  "When designing software at a system level, performance issues should always be considered \
+  from the beginning. A good software developer will do this automatically, having developed \
+  a feel for where performance issues will cause problems. An inexperienced developer will not\
+  bother, misguidedly believing that a bit of fine tuning at a later stage will fix any problems. \
+  (The Fallacy of Premature Optimization - by Randall Hyde)
+
+tip.6.description=<html><b>Never Assume.</b><p>\
+  Don't guess at what the performance problem is - measure!. \
+  Don't presume that you fixed a performance problem - measure!
+
+tip.7.description=<html><b>Try one optimization at a time.</b><p>\
+  <li>Take baseline measurement.\
+  <li>Test out one and only one optimization.\
+  <li>Measure again.
+
+tip.8.description=<html><b>Tables Contain Hidden Treasures</b><p>\
+  JRat collects lots of information, but a lot of it is hidden by default. \
+  Most tables contain hidden collumns.\
+  To uncover hidden columns, click on the box at the top right corner of a table.
+
+tip.9.description=<html><b>Looking for Something?</b><p>\
+  Most tables are searchable. \
+  Use Alt-F to open the search dialogue.

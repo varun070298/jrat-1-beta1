@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/rate/ui
+END
+RateTableModelListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/rate/ui/RateTableModelListener.java
+END
+RateModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/rate/ui/RateModel.java
+END
+RateViewerPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/rate/ui/RateViewerPanel.java
+END
+RateModelSample.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/rate/ui/RateModelSample.java
+END
+RateOutputViewBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/rate/ui/RateOutputViewBuilder.java
+END
+ControlPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/rate/ui/ControlPanel.java
+END
+RateModelTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/provider/rate/ui/RateModelTableModel.java
+END

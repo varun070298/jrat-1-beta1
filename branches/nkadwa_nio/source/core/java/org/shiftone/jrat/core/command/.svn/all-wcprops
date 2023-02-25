@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/core/command
+END
+CommandletRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/core/command/CommandletRegistry.java
+END
+CommandletRegistryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/core/command/CommandletRegistryFactory.java
+END
+SystemPropertiesCommandlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/core/command/SystemPropertiesCommandlet.java
+END
+ListRegistryCommandlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/core/java/org/shiftone/jrat/core/command/ListRegistryCommandlet.java
+END

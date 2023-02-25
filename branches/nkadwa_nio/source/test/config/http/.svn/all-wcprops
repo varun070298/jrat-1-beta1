@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/test/config/http
+END
+test.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/test/config/http/test.html
+END
+foo.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/test/config/http/foo.html
+END
+http-a.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/test/config/http/http-a.txt
+END
+http-b.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/test/config/http/http-b.txt
+END
+http-c.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/test/config/http/http-c.txt
+END
+http-d.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/test/config/http/http-d.txt
+END
+http-e.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/test/config/http/http-e.txt
+END
+http-f.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jrat/!svn/ver/217/branches/nkadwa_nio/source/test/config/http/http-f.txt
+END

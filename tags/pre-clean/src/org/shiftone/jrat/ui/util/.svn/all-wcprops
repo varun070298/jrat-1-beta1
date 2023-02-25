@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/ui/util
+END
+BackgroundActionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/ui/util/BackgroundActionListener.java
+END
+BrowserPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/ui/util/BrowserPanel.java
+END
+NoOpComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/ui/util/NoOpComparator.java
+END
+WaitDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/ui/util/WaitDialog.java
+END
+StatusBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/ui/util/StatusBar.java
+END
+ColorSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/ui/util/ColorSet.java
+END
+JRatFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/ui/util/JRatFrame.java
+END
+ColorTableCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/ui/util/ColorTableCellRenderer.java
+END
+NSplitPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/ui/util/NSplitPane.java
+END
+ExceptionDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/ui/util/ExceptionDialog.java
+END
+DotIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/ui/util/DotIcon.java
+END
+PercentTableCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/ui/util/PercentTableCellRenderer.java
+END

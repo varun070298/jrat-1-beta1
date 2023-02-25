@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/ui/viewer/tsv
+END
+SimpleTsvOutputViewBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/ui/viewer/tsv/SimpleTsvOutputViewBuilder.java
+END
+TsvComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/ui/viewer/tsv/TsvComparator.java
+END
+TsvTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/ui/viewer/tsv/TsvTableModel.java
+END
+TsvMouseAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jrat/!svn/ver/80/tags/pre-clean/src/org/shiftone/jrat/ui/viewer/tsv/TsvMouseAdapter.java
+END

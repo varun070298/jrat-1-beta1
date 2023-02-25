@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jrat/!svn/ver/213/trunk/source/core/java/org/shiftone/jrat/inject/bytecode/asm
+END
+AsmInjectorStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/jrat/!svn/ver/213/trunk/source/core/java/org/shiftone/jrat/inject/bytecode/asm/AsmInjectorStrategy.java
+END
+InjectClassVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/inject/bytecode/asm/InjectClassVisitor.java
+END
+ProxyMethodVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/jrat/!svn/ver/209/trunk/source/core/java/org/shiftone/jrat/inject/bytecode/asm/ProxyMethodVisitor.java
+END
+IfInterfaceClassVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/inject/bytecode/asm/IfInterfaceClassVisitor.java
+END
+MethodCriteriaClassVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/inject/bytecode/asm/MethodCriteriaClassVisitor.java
+END
+ClassInitMethodVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/inject/bytecode/asm/ClassInitMethodVisitor.java
+END
+Example.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jrat/!svn/ver/210/trunk/source/core/java/org/shiftone/jrat/inject/bytecode/asm/Example.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jrat/!svn/ver/209/trunk/source/core/java/org/shiftone/jrat/inject/bytecode/asm/Constants.java
+END
+DebugClassVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/inject/bytecode/asm/DebugClassVisitor.java
+END
+ClassInitClassVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/inject/bytecode/asm/ClassInitClassVisitor.java
+END

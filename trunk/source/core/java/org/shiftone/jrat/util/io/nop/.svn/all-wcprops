@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/util/io/nop
+END
+NullPrintWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/util/io/nop/NullPrintWriter.java
+END
+NullOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/util/io/nop/NullOutputStream.java
+END
+NullWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/util/io/nop/NullWriter.java
+END

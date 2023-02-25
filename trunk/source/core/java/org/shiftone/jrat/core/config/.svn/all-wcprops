@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jrat/!svn/ver/213/trunk/source/core/java/org/shiftone/jrat/core/config
+END
+ConfigMethodHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/jrat/!svn/ver/171/trunk/source/core/java/org/shiftone/jrat/core/config/ConfigMethodHandlerFactory.java
+END
+Handler.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/core/config/Handler.java
+END
+Profile.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/core/config/Profile.java
+END
+Settings.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jrat/!svn/ver/213/trunk/source/core/java/org/shiftone/jrat/core/config/Settings.java
+END
+CompositeMethodHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jrat/!svn/ver/209/trunk/source/core/java/org/shiftone/jrat/core/config/CompositeMethodHandler.java
+END
+ConfigurationParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/core/config/ConfigurationParser.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jrat/!svn/ver/209/trunk/source/core/java/org/shiftone/jrat/core/config/Configuration.java
+END
+CacheMethodHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jrat/!svn/ver/135/trunk/source/core/java/org/shiftone/jrat/core/config/CacheMethodHandlerFactory.java
+END

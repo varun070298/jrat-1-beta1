@@ -1,0 +1,107 @@
+<document title="How It Works">
+
+
+    This document aims to provide a bit more details about what's going on than the
+    <a href="quickstart.html">Quick Start Guide</a>
+    .
+
+    <section>
+        <h>Instrumentation</h>
+
+        <p>
+            JRat works by weaving it's own instructions into your program. It doesn't modify
+            your source code, it modifies the compiled bytecode that gets compiled into your
+            class files and jars. JRat basicly adds logic that when executed, tells JRat what's
+            going on.
+        </p>
+
+        <p>
+            This is a concept used by many AOP frameworks. JRat doesn't use any standard AOP
+            libraries, but it does add a custom before and end advice to every monitored method.
+        </p>
+
+        <section>
+            <h>Before</h>
+            <code><![CDATA[
+public class MyClass {
+    public Object doSomething() {
+
+        // do something
+
+    }
+}]]></code>
+        </section>
+
+        <section>
+            <h>After</h>
+            <code><![CDATA[
+public class MyClass {
+    private static final MethodHandler handler = HandlerFactory.getHandler(...);
+
+    public Object doSomething() {
+
+        handler.onMethodStart(this);
+        long startTime = Clock.getTime();
+
+        try {
+
+           Object result = real_renamed_doSomething(); // call your method
+
+           handler.onMethodFinish(this, Clock.getTime() - startTime, null);
+
+        } catch(Throwable e) {
+
+           handler.onMethodFinish(this, Clock.getTime() - startTime, e);
+           throw e;
+
+        }
+    }
+
+    public Object real_renamed_doSomething() {
+        // do something
+    }
+}]]></code>
+        </section>
+
+
+        <section>
+            <h>The Java Agent (Loadtime Weaving)</h>
+            <p>
+                Java 5 supports the Java Virtual Machine Tool Interface (JVMTI).
+
+                This JVM feature allows a command line argument to be used to specify a
+                <i>Java Agent</i>
+                .
+
+                The
+                <i>Java Agent</i>
+                is a special Java class that gets called before
+                anything else happens (even before the application's main method gets
+                called).
+
+                The agent is given the opportunity to install a filter that will receieve
+                callbacks to transform classes as they are loaded.
+
+                This approach is nice because...
+                <ul>
+                    <li>It's easy. You can install JRat it just by adding a comand line argmument.</li>
+                    <li>It's lazy. Only the loaded classes need to be trasformed.</li>
+                    <li>It's dynamic. Every time you run your application, the agent examines your
+                        <b>jrat.xml</b>
+                        configuration to decide what to inject. If you remove the command
+                        line argument, then JRat is uninstalled.
+                    </li>
+                </ul>
+            </p>
+        </section>
+
+
+    </section>
+    <section>
+        <h>Configuration</h>
+
+
+    </section>
+
+
+</document>

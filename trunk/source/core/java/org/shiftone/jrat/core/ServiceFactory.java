@@ -1,0 +1,142 @@
+package org.shiftone.jrat.core;
+
+
+import org.shiftone.jrat.core.command.CommandletRegistry;
+import org.shiftone.jrat.core.command.CommandletRegistryFactory;
+import org.shiftone.jrat.core.jmx.JmxRegistry;
+import org.shiftone.jrat.core.jmx.JmxRegistryFactory;
+import org.shiftone.jrat.core.jmx.benchmark.Benchmark;
+import org.shiftone.jrat.core.jmx.info.JRatInfo;
+import org.shiftone.jrat.core.output.FileOutputFactory;
+import org.shiftone.jrat.core.output.FileOutputRegistry;
+import org.shiftone.jrat.core.shutdown.ShutdownRegistry;
+import org.shiftone.jrat.core.web.WebActionRegistry;
+import org.shiftone.jrat.inject.bytecode.Transformer;
+import org.shiftone.jrat.util.log.Logger;
+import org.shiftone.jrat.util.log.LoggingManager;
+
+
+/**
+ * @author jeff@shiftone.org (Jeff Drost)
+ */
+public class ServiceFactory {
+
+    private static final Logger LOG = Logger.getLogger(ServiceFactory.class);
+    private static ServiceFactory singleton;
+
+    public ServiceFactory() {
+        LOG.info("new");
+    }
+
+
+    public static synchronized ServiceFactory getInstance() {
+
+        if (singleton == null) {
+            singleton = new ServiceFactory();
+        }
+
+        return singleton;
+    }
+
+    private CommandletRegistry commandletRegistry;
+
+    public synchronized CommandletRegistry getCommandletRegistry() {
+
+        if (commandletRegistry == null) {
+
+            commandletRegistry = CommandletRegistryFactory.createCommandletRegistry();
+
+        }
+
+        return commandletRegistry;
+    }
+
+    // --------------------------------------------------------------------
+    private JmxRegistry jmxRegistry;
+
+    public synchronized JmxRegistry getJmxRegistry() {
+
+        if (jmxRegistry == null) {
+            jmxRegistry = JmxRegistryFactory.createJmxRegistry();
+
+            jmxRegistry.registerMBean(new JRatInfo(), null);
+            jmxRegistry.registerMBean(new LoggingManager(), null);
+            jmxRegistry.registerMBean(new Benchmark(), null);
+        }
+
+        return jmxRegistry;
+    }
+
+
+    // --------------------------------------------------------------------
+    private FileOutputRegistry fileOutputRegistry;
+
+    public synchronized FileOutputRegistry getFileOutputRegistry() {
+
+        if (fileOutputRegistry == null) {
+            fileOutputRegistry = new FileOutputRegistry();
+
+            getJmxRegistry().registerMBean(fileOutputRegistry, null);
+            getShutdownRegistry().registerShutdownListener(fileOutputRegistry);
+        }
+
+        return fileOutputRegistry;
+    }
+
+
+    // --------------------------------------------------------------------
+    private FileOutputFactory fileOutputFactory;
+
+    public synchronized FileOutputFactory getFileOutputFactory() {
+
+        if (fileOutputFactory == null) {
+            fileOutputFactory = new FileOutputFactory(getFileOutputRegistry());
+        }
+
+        return fileOutputFactory;
+    }
+
+
+    // --------------------------------------------------------------------
+    private ShutdownRegistry shutdownRegistry;
+
+    public synchronized ShutdownRegistry getShutdownRegistry() {
+
+        if (shutdownRegistry == null) {
+            shutdownRegistry = new ShutdownRegistry();
+
+            getJmxRegistry().registerMBean(shutdownRegistry, null);
+        }
+
+        return shutdownRegistry;
+    }
+
+    // --------------------------------------------------------------------
+    private WebActionRegistry webActionRegistry;
+
+    public synchronized WebActionRegistry getWebActionRegistry() {
+
+        if (webActionRegistry == null) {
+            webActionRegistry = new WebActionRegistry();
+
+            //getJmxRegistry().registerMBean(webActionRegistry, null);
+        }
+
+        return webActionRegistry;
+    }
+
+    // --------------------------------------------------------------------
+    private Transformer transformer;
+
+    public synchronized Transformer getTransformer() {
+
+        if (transformer == null) {
+            transformer = new Transformer();
+
+            getJmxRegistry().registerMBean(transformer, null);
+            getShutdownRegistry().registerShutdownListener(transformer);
+        }
+
+        return transformer;
+    }
+}
